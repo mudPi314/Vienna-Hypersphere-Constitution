@@ -10,4 +10,4 @@ The main branch of this repo shall become the official constitution of the Vienn
 ## Amendment
 All merges into the main branch of this repo shall be approved by unanimous consent of The High Council.
 ## Reversion
-Any change made to the main branch of this repo may be reverted by the will of any member of The High Council.
+Any change made to the main branch of this repo may be reverted by at will by any member of The High Council.
