@@ -8,6 +8,6 @@ The High Council shall be composed of Samuel and Ariel.
 ## Ratification
 The main branch of this repo shall become the official constitution of the Vienna Hypersphere, effective immediately, when approved by unanimous consent of The High Council.
 ## Amendment
-All merges into the main branch of this repo shall be approved by unanimous consent of The High Council.
+All valid merges into the main branch of this repo shall have been approved by unanimous consent of The High Council.
 ## Reversion
 Any change made to the main branch of this repo may be reverted by at will by any member of The High Council.
